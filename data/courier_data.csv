@@ -1,0 +1,125 @@
+shipment_weight,origin_pincode,destination_pincode,delivery_zone,shipment_type,actual_charge
+1.3,121003,507101,d,Forward charges,135.0
+1.0,121003,486886,d,Forward charges,90.2
+2.5,121003,532484,d,Forward charges,224.6
+1.0,121003,143001,b,Forward charges,61.3
+0.15,121003,515591,d,Forward charges,45.4
+0.15,121003,326502,d,Forward charges,45.4
+1.0,121003,208019,b,Forward charges,61.3
+1.15,121003,140301,b,Forward charges,89.6
+0.5,121003,396001,d,Forward charges,45.4
+0.5,121003,711106,d,Forward charges,45.4
+0.79,121003,284001,b,Forward charges,61.3
+0.72,121003,441601,d,Forward charges,90.2
+1.08,121003,248006,b,Forward charges,89.6
+1.0,121003,485001,d,Forward charges,90.2
+0.15,121003,845438,d,Forward charges,45.4
+1.28,121003,463106,d,Forward charges,135.0
+0.5,121003,140301,b,Forward charges,33.0
+0.79,121003,495671,d,Forward charges,90.2
+0.2,121003,673002,e,Forward and RTO charges,107.3
+0.79,121003,208002,b,Forward charges,61.3
+0.86,121003,416010,d,Forward charges,90.2
+1.2,121003,226010,b,Forward charges,89.6
+0.7,121003,400705,d,Forward and RTO charges,172.8
+0.6,121003,262405,b,Forward and RTO charges,102.3
+0.99,121003,394210,d,Forward and RTO charges,172.8
+0.7,121003,411014,d,Forward and RTO charges,172.8
+0.8,121003,783301,e,Forward and RTO charges,213.5
+1.2,121003,486661,d,Forward and RTO charges,258.9
+1.3,121003,244001,b,Forward and RTO charges,151.1
+0.7,121003,492001,d,Forward and RTO charges,172.8
+1.6,121003,517128,d,Forward and RTO charges,345.0
+1.13,121003,562110,d,Forward and RTO charges,258.9
+0.6,121003,831006,d,Forward and RTO charges,172.8
+2.92,121003,140604,b,Forward charges,174.5
+0.68,121003,723146,d,Forward charges,90.2
+0.71,121003,421204,d,Forward charges,90.2
+0.78,121003,263139,b,Forward charges,61.3
+1.27,121003,743263,d,Forward charges,135.0
+0.7,121003,392150,d,Forward charges,90.2
+0.69,121003,382830,d,Forward charges,90.2
+0.68,121003,711303,d,Forward charges,90.2
+1.0,121003,283102,b,Forward charges,61.3
+1.16,121003,370201,d,Forward charges,135.0
+0.68,121003,248001,b,Forward charges,61.3
+1.08,121003,144001,b,Forward charges,89.6
+0.69,121003,403401,d,Forward charges,90.2
+1.13,121003,452001,d,Forward charges,135.0
+0.69,121003,721636,d,Forward charges,90.2
+0.68,121003,831002,d,Forward charges,90.2
+2.86,121003,226004,b,Forward charges,174.5
+1.35,121003,248001,b,Forward charges,89.6
+0.68,121003,410206,d,Forward charges,90.2
+1.64,121003,516503,d,Forward charges,179.8
+0.67,121003,742103,d,Forward charges,90.2
+2.0,121003,452018,d,Forward charges,179.8
+1.0,121003,208001,b,Forward charges,61.3
+1.5,121003,244713,b,Forward charges,89.6
+1.5,121003,580007,d,Forward charges,135.0
+3.0,121003,360005,d,Forward charges,269.4
+1.7,121003,313027,d,Forward charges,179.8
+0.79,121003,341001,d,Forward charges,90.2
+0.5,121003,332715,d,Forward charges,45.4
+0.77,121003,302031,d,Forward charges,90.2
+0.8,121003,335001,d,Forward charges,90.2
+0.76,121003,334004,d,Forward charges,90.2
+0.76,121003,321001,d,Forward charges,90.2
+0.6,121003,324001,d,Forward charges,90.2
+0.59,121003,321608,d,Forward charges,90.2
+0.8,121003,302002,d,Forward charges,90.2
+0.5,121003,311011,d,Forward and RTO charges,86.7
+2.94,121003,306302,d,Forward charges,269.4
+1.0,121003,313001,d,Forward charges,90.2
+0.61,121003,302002,d,Forward charges,90.2
+0.15,121003,322255,d,Forward and RTO charges,86.7
+0.2,121003,302017,d,Forward charges,45.4
+0.7,121003,302017,d,Forward charges,90.2
+0.5,121003,335512,d,Forward charges,45.4
+2.1,121003,313001,d,Forward charges,224.6
+0.2,121003,313001,d,Forward charges,45.4
+0.2,121003,307026,d,Forward charges,45.4
+0.15,121003,327025,d,Forward charges,45.4
+0.8,121003,313333,d,Forward charges,90.2
+0.2,121003,313001,d,Forward charges,45.4
+0.5,121003,342008,d,Forward charges,45.4
+0.6,121003,314401,d,Forward charges,90.2
+1.1,121003,342301,d,Forward charges,135.0
+0.15,121003,313003,d,Forward charges,45.4
+0.8,121003,173212,b,Forward charges,61.3
+0.3,121003,174101,b,Forward charges,33.0
+1.6,121003,173213,b,Forward charges,117.9
+0.71,121003,302017,d,Forward charges,90.2
+1.02,121003,322201,d,Forward charges,135.0
+0.59,121003,314001,d,Forward charges,90.2
+0.69,121003,331022,d,Forward charges,90.2
+0.68,121003,305801,d,Forward charges,90.2
+2.28,121003,335502,d,Forward charges,224.6
+0.68,121003,306116,d,Forward charges,90.2
+0.74,121003,311001,d,Forward charges,90.2
+4.13,121003,302019,d,Forward charges,403.8
+0.73,121003,302039,d,Forward charges,90.2
+1.04,121003,335803,d,Forward charges,135.0
+0.7,121003,335001,d,Forward charges,90.2
+0.72,121003,175101,b,Forward charges,61.3
+0.72,121003,303903,d,Forward charges,90.2
+1.63,121003,342012,d,Forward charges,179.8
+2.47,121003,334001,d,Forward charges,224.6
+0.67,121003,302031,d,Forward charges,90.2
+0.72,121003,302012,d,Forward charges,90.2
+0.72,121003,342014,d,Forward charges,90.2
+0.68,121003,324005,d,Forward charges,90.2
+0.82,121003,302001,d,Forward charges,90.2
+0.66,121003,302004,d,Forward charges,90.2
+0.68,121003,302018,d,Forward charges,90.2
+1.86,121003,302017,d,Forward charges,179.8
+2.27,121003,324008,d,Forward charges,224.6
+0.68,121003,302020,d,Forward charges,90.2
+0.72,121003,302018,d,Forward charges,90.2
+1.1,121003,302017,d,Forward charges,135.0
+0.67,121003,302012,d,Forward charges,90.2
+0.73,121003,325207,d,Forward charges,90.2
+0.5,121003,303702,d,Forward and RTO charges,86.7
+0.5,121003,313301,d,Forward charges,45.4
+0.5,121003,173212,b,Forward charges,33.0
+0.5,121003,302020,d,Forward charges,45.4
