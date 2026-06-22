@@ -160,7 +160,7 @@ Publication-related documents are available in the `publications` folder.
 **Ms. Mahankali Saritha**  
 Assistant Professor  
 Department of Computer Science and Engineering  
-Vardhaman College of Engineering
+Vardhaman College of Engineering.
 
 ---
 
